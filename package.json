@@ -1,0 +1,22 @@
+{
+  "name": "certbot-helper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ketchupkungen/certbot-helper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ketchupkungen/certbot-helper/issues"
+  },
+  "homepage": "https://github.com/ketchupkungen/certbot-helper#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
